@@ -1,12 +1,12 @@
-##Hi there 👋 My name is Luka!
+👋 Hi there, my name is Luka!
 
 🌱 I’m currently learning HTMl and CSS...
 
 
 <div align="center">
   <a href="https://github.com/luka9kw">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luka9kw&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luka9kw&layout=compact&langs_count=8&theme=dark"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=luka9kw&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luka9kw&layout=compact&langs_count=8&theme=dark"/>
 </div>
 
 <div style="display: inline_block"><br>
@@ -22,6 +22,5 @@
   <a href="https://instagram.com/lukawake" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:luka9kw@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
 </div>
