@@ -1,7 +1,6 @@
-###👋 Hi there, my name is Luka!
+### Hi, I'm Luka! 👋
 
-🌱 I’m currently learning HTMl and CSS...
-
+- 🔭 I’m currently learning HTML and CSS
 
 <div align="center">
   <a href="https://github.com/luka9kw">
