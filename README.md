@@ -1,6 +1,6 @@
 ### Hi, I'm Luka! 👋
 
-- 🔭 I’m currently learning HTML and CSS
+- 🔭 I’m currently learning CSS
 
 <div align="center">
   <a href="https://github.com/luka9kw">
