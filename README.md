@@ -1,6 +1,6 @@
 ### Hi, I'm Luka! 👋
 
-- 🔭 I’m currently learning Javascript
+- 🔭 I’m currently learning Javascript <3
 
 <div align="center">
   <a href="https://github.com/luka9kw">
