@@ -9,6 +9,5 @@
 
 ## 
 <div> 
-  My Skills
  [![My Skills](https://skillicons.dev/icons?i=js,ts,react,html,css,java,mysql,linux)](https://skillicons.dev)
 </div>
