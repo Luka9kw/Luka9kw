@@ -8,6 +8,6 @@
 </div>
 
 ## Skills
-<div> 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,react,html,css,java,mysql,linux)](https://skillicons.dev)
+<div>
+  [![My Skills](https://skillicons.dev/icons?i=js,ts,react,html,css,java,mysql,linux)](https://skillicons.dev)
 </div>
